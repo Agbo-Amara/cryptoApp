@@ -1,7 +1,7 @@
 {
   "name": "crypto-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple command-line app that provides the currrent exchange rate of any cryptocurrency in any currency",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
